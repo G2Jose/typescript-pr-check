@@ -8,5 +8,9 @@
     "start": "tsc --outDir build/ --watch index.ts"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.25.0",
+    "typescript": "^3.4.4"
+  }
 }
