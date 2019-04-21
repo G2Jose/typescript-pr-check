@@ -1,0 +1,12 @@
+{
+  "name": "typescript-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --outDir build/ --watch index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
